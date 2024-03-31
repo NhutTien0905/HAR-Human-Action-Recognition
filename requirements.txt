@@ -1,5 +1,9 @@
 mediapipe
 pandas
 opencv-python-headless
-tensorflow
+tensorflow==2.13.0
 scikit-learn
+pytube
+dash
+flask
+plotly
